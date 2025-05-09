@@ -1,0 +1,15 @@
+- **Rule 10** - On Opposite Tacks #card
+  collapsed:: true
+	- When boats are on opposite tacks, a port-tack boat shall keep clear of a starboard-tack boat.
+- **Rule 13** - While Tacking or Gybing #card
+	- After a boat passes head to wind, she shall keep clear of other boats until she is on a close-hauled course.
+		- The rule applies *after* the boat has passed head to wind (the point where the bow is pointing directly into the wind).
+		- The boat that has just tacked **must keep clear** of other boats.
+		- This obligation continues **until she is on a close-hauled course**. A close-hauled course is the closest a sailboat can sail effectively into the wind.
+	- While gybing, a boat shall keep clear of other boats.
+		- While a boat is in the process of gybing (from the moment the boom starts to cross the boat until it settles on the new tack), she **shall keep clear** of other boats.
+	- **Key takeaways from Rule 13:**
+		- **Temporary Loss of Right-of-Way:** Boats that are tacking or gybing temporarily lose any right-of-way they might otherwise have had under other rules (like Rule 10 or Rule 11).
+		- **Obligation to Keep Clear:** The responsibility to avoid a collision rests with the boat that is tacking or gybing.
+		- **Tacking Exception:** The obligation to keep clear while tacking ends once the boat is established on a close-hauled course.
+		- **Gybing is Absolute:** There is no similar exception for gybing; the obligation to keep clear lasts for the entire maneuver.
