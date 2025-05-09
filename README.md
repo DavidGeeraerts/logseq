@@ -1,2 +1,2 @@
 # logseq
-logseq
+[logseq](https://logseq.com/)
