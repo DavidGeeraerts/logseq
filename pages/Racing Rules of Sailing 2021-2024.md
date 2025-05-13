@@ -1,15 +1,56 @@
-- **Rule 10** - On Opposite Tacks #card
-  collapsed:: true
-	- When boats are on opposite tacks, a port-tack boat shall keep clear of a starboard-tack boat.
-- **Rule 13** - While Tacking or Gybing #card
+- **Rule 10** - On Opposite Tacks
+	- *When boats are on opposite tacks, a port-tack boat shall keep clear of a starboard-tack boat.*
+- **Rule 11** - On the Same Tack, Overlapped.
+	- *When boats are on the same tack and overlapped, a windward boat shall keep clear of a leeward boat. However, a leeward boat need not give way to a windward boat if she was clear astern when the overlap began.*
+- **Rule 13** - While Tacking or Gybing
 	- After a boat passes head to wind, she shall keep clear of other boats until she is on a close-hauled course.
 		- The rule applies *after* the boat has passed head to wind (the point where the bow is pointing directly into the wind).
 		- The boat that has just tacked **must keep clear** of other boats.
 		- This obligation continues **until she is on a close-hauled course**. A close-hauled course is the closest a sailboat can sail effectively into the wind.
 	- While gybing, a boat shall keep clear of other boats.
 		- While a boat is in the process of gybing (from the moment the boom starts to cross the boat until it settles on the new tack), she **shall keep clear** of other boats.
-	- **Key takeaways from Rule 13:**
+	- Key takeaways from Rule 13:
 		- **Temporary Loss of Right-of-Way:** Boats that are tacking or gybing temporarily lose any right-of-way they might otherwise have had under other rules (like Rule 10 or Rule 11).
 		- **Obligation to Keep Clear:** The responsibility to avoid a collision rests with the boat that is tacking or gybing.
 		- **Tacking Exception:** The obligation to keep clear while tacking ends once the boat is established on a close-hauled course.
 		- **Gybing is Absolute:** There is no similar exception for gybing; the obligation to keep clear lasts for the entire maneuver.
+- **Rule 15** - Acquiring right of way
+	- When a boat acquires right of way, she shall initially give the other boat room to keep clear and shall continue to do so as long as the other boat is required to keep clear.
+		- **Key takeaways from Rule 15:**
+		- **Smooth Transitions:** Rule 15 promotes safe and predictable interactions between boats when right-of-way changes.
+		- **Responsibility on the Acquiring Boat:** The boat gaining right of way has an initial responsibility to facilitate the other boat's ability to keep clear.
+		- **Continued Obligation:** This isn't just about the initial moment; the right-of-way boat must continue to give room as long as the other boat needs to keep clear.
+		- **Prevents "Luffing Rights":** This rule prevents a boat from suddenly gaining right of way and immediately luffing (turning sharply into the wind) another boat, potentially causing a collision.
+- **Rule 16** - Changing Course
+	- When a right-of-way boat changes course, she shall give room to the other boat to keep clear.
+		- **Key takeaways from Rule 16:**
+		- **Limits on Right-of-Way:** While the right-of-way boat has the advantage, it can't use its right of way to force another boat into a dangerous situation.
+		- **Predictable Maneuvers:** This rule promotes predictable sailing and prevents the right-of-way boat from making sudden, aggressive course changes.
+		- **Responsibility on the Right-of-Way Boat:** The onus is on the right-of-way boat to ensure its course changes don't create a collision risk.
+		- **"Room to Keep Clear":** The right-of-way boat must provide adequate "room" for the other boat to maneuver. What constitutes "room" will depend on the specific circumstances.
+- **Rule 18** - Mark-Room; Obstruction-Room
+	- until the official start of the race, no boat has a proper course.
+	- **18.1 When rule 18 applies**
+	- Rule 18 applies to boats when they are required to leave a mark on the same side and at least one of them is in the zone. However, it does not apply between<!----> boats on opposite tacks on a beat to windward.
+	- **18.2 Giving mark-room**
+	- (a) When boats are overlapped, the outside boat shall give the inside boat mark-room unless rule 18.2(b) applies.
+	- (b)If the overlap begins within the zone, the outside boat need not give mark-room to a boat that reached the zone clear astern and, when the boats became overlapped, was also clear astern.
+	- (c) A boat entitled to mark-room shall sail no further from the mark than needed to sail her proper course or needed to round or pass the mark.
+	- **18.3 Tacking at a mark**
+	- (a) If a boat is required by rule 18.2 to give mark-room, she shall not tack between the inside boat and the mark unless in doing so she leaves the inside boat room to sail her proper course.
+	- (b) If a boat is sailing outside a boat entitled to mark-room and, after passing head to wind, her proper course requires her to pass to windward of the mark, she shall tack no later than when she is abeam the mark.
+	- **18.4 Obstruction-room**
+	- (a) A boat approaching an obstruction shall be given obstruction-room by a boat clear ahead or overlapped to windward.
+	- (b) A boat entitled to obstruction-room shall sail no further from the obstruction than needed to pass safely.
+	- **Simplified Summary of How Rule 18 Works:**
+	- **Application:** Rule 18 applies when boats need to leave a mark on the same side and are in the zone. It generally doesn't apply to boats on opposite tacks approaching a windward mark.
+	- **Mark-Room for Overlapped Boats:** When overlapped in the zone, the outside boat generally has to give the inside boat mark-room.
+	- **Exception for Overlaps Starting Late:** If an outside boat reaches the zone clear astern and the overlap begins within the zone while she is still clear astern, she doesn't have to give mark-room initially.
+	- **Proper Course Limitation:** A boat entitled to mark-room can't sail unnecessarily wide of the mark.
+	- **Tacking at a Mark:** Restrictions apply to when an outside boat can tack between an inside boat and the mark.
+	- **Obstruction-Room:** A boat approaching an obstruction must be given room to pass safely by a boat clear ahead or overlapped to windward.
+- **Rule 43** - Exoneration
+- **Proper Course** #table
+- | Definition | Rule 17 | Rule 18.2 | Rule 18.8 | Rule 23 |
+  | Rule requiring a boat to keep clear or give room | Rule 11 requires a windward boat to keep clear of a leeward boat | Rule 18.2 requires a boat that was clear astern or overlapped outside upon entering the zone to give the clear-ahead or inside-overlapped boat mark-room. | A port-tack boat approaching a leeward mark to be rounded to port is required by Rule 10 )on opposite tacks) and Rule 18.2 (giving mark-room) to keep clear of an inside-overlapped, starboard-tack boat. | Rule 21 requires a boat taking a penalty or returning to the starting line keep clear of other boats |
+  | Limits on the right-of-way boat, or the boat owed room | Rule 17 prohibits a leeward boat from sailing above their proper course if they becasme overlapped within 2 boatlengths of the windward boat. | Rule 18.2c protects a boat giving mark-room if they become overlapped inside of the boat owed mark-room if they are giving the boat owed mark-room room to sail their proper course | Rule 18.4 prohibits the inside-overlapped, right-of-way boat from taking the keep-clear boat beyond the right-of-way boat's proper course around the mark | Rule 23 keeps a boat from interfering with one taking a penalty or returning to the starting line, unless they are sailing their proper course. |

@@ -1,0 +1,47 @@
+- **Rule 10: ON OPPOSITE TACKS** #card
+	- When boats are on opposite tacks, a port-tack boat shall keep clear
+	  of a starboard-tack boat.
+- **Rule 11: ON THE SAME TACK, OVERLAPPED** #card
+	- When boats are on the same tack and overlapped, a windward boat
+	  shall keep clear of a leeward boat.
+- **Rule 12: ON THE SAME TACK, NOT OVERLAPPED** #card
+	- When boats are on the same tack and not overlapped, a boat clear
+	  astern shall keep clear of a boat clear ahead.
+- **Rule 13: WHILE TACKING** #card
+	- After a boat passes head to wind, she shall keep clear of other boats until she is on a close-hauled course. During that time rules 10, 11 and 12 do not apply. If two boats are subject to this rule at the same time, the one on the other’s port side or the one astern shall keep clear.
+- **Rule 14: AVOIDING CONTACT** #card
+	- If reasonably possible, a boat shall
+		- (a) avoid contact with another boat,
+		- (b) not cause contact between boats, and
+		- (c) not cause contact between a boat and an object that should be avoided.
+	- However, a right-of-way boat, or one sailing within the room or mark-room to which she is entitled, need not act to avoid contact until it is clear that the other boat is not keeping clear or giving room or mark-room.
+	- **Exception 43.1 (c)**
+		- A right-of-way boat, or one sailing within the room or mark-room to which she is entitled, is exonerated for breaking rule 14 if the contact does not cause damage or injury.
+- **Rule 15: ACQUIRING RIGHT OF WAY** #card
+	- When a boat acquires right of way, she shall initially give the other boat room to keep clear, unless she acquires right of way because of the other boat’s actions.
+- **Rule 16: CHANGING COURSE** #card
+	- **16.1** When a right-of-way boat changes course, she shall give the other boat room to keep clear.
+	- **16.2** In addition, on a beat to windward when a port-tack boat is keeping clear by sailing to pass to leeward of a starboard-tack boat, the starboard-tack boat shall not bear away if as a result the port-tack boat must change course immediately to continue keeping clear.
+- **Rule 17: On the same tack; Proper Course** #card
+	- *"If a boat clear astern becomes overlapped within two of her hull lengths to leeward of a boat on the same tack, she shall not sail above her proper course while they remain on the same tack and overlapped within that distance, unless in doing so she promptly sails astern of the other boat."*
+- **Section D - Other Rules**
+	- Negates section A rules
+- **Rule 21: STARTING ERRORS; TAKING PENALTIES; BACKING A SAIL**
+- **Rule 22: CAPSIZED, ANCHORED OR AGROUND; RESCUING**
+- **Rule 23: INTERFERING WITH ANOTHER BOAT**
+- **Rule 31: TOUCHING A MARK**
+	- *While racing, a boat shall not touch a starting mark before starting, a mark that begins, bounds or ends the leg of the course on which she is sailing, or a finishing mark after finishing.*
+- **Rule 43: EXONERATION**
+-
+-
+-
+-
+-
+- Reach marks and Mark Room
+	- if a boat passes head to wind from port to starboard tack in the zone of a mark to be left to port, rule 18.2 does not apply between her and another boat on starboard tack that is fetching the mark. If the other boat has been on starboard tack since entering the zone, the boat that passed head to wind:
+		- (a) shall not cause the other boat to sail above close-hauled to avoid contact, and
+		- (b) shall give mark-room if the other boat becomes overlapped inside her.
+- Proper Course
+- Tacking at the top mark
+	- room to tack at obstruction
+		- A boat may hail for room to tack and avoid a boat on the same tack by hailing "room to tack"
