@@ -1,0 +1,262 @@
+{:blocks (
+{:block/created-at 1747158484222
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:type "image"
+:assetId "68d50e60-3022-11f0-b45b-c128a3bcf064"
+:size [480 360]
+:opacity 1
+:id "68d66df0-3022-11f0-b45b-c128a3bcf064"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [32 72]
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158479555
+:clipping 0}}
+:block/updated-at 1747158484222} 
+{:block/created-at 1747158492714
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 1
+:scale [1 1]
+:type "image"
+:assetId "6dc6ece0-3022-11f0-b45b-c128a3bcf064"
+:size [480 360]
+:opacity 1
+:id "6dc87380-3022-11f0-b45b-c128a3bcf064"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [528 72]
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158487954
+:clipping 0}}
+:block/updated-at 1747158492714} 
+{:block/created-at 1747158492714
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6dc8c1a0-3022-11f0-b45b-c128a3bcf064"
+:fontWeight 400
+:noFill true
+:point [513 252]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "6dc8c1a1-3022-11f0-b45b-c128a3bcf064"}
+:end 
+{:id "end"
+:canBind true
+:point [11 0]
+:bindingId "6dc8c1a2-3022-11f0-b45b-c128a3bcf064"}}
+:decorations 
+{:end "arrow"}
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158487778
+:italic false}}
+:block/updated-at 1747158492714} 
+{:block/created-at 1747158500789
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 3
+:scale [1 1]
+:type "image"
+:assetId "7322b0c0-3022-11f0-b45b-c128a3bcf064"
+:size [480 360]
+:opacity 1
+:id "73239b20-3022-11f0-b45b-c128a3bcf064"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [32 440]
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158496860
+:clipping 0}}
+:block/updated-at 1747158500789} 
+{:block/created-at 1747158500789
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "73239b21-3022-11f0-b45b-c128a3bcf064"
+:fontWeight 400
+:noFill true
+:point [516 430.81]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [11 0]
+:bindingId "73239b22-3022-11f0-b45b-c128a3bcf064"}
+:end 
+{:id "end"
+:canBind true
+:point [0 8.16]
+:bindingId "73239b23-3022-11f0-b45b-c128a3bcf064"}}
+:decorations 
+{:end "arrow"}
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158496753
+:italic false}}
+:block/updated-at 1747158500789} 
+{:block/created-at 1747158508690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 5
+:scale [1 1]
+:type "image"
+:assetId "7774a5c0-3022-11f0-b45b-c128a3bcf064"
+:size [480 360]
+:opacity 1
+:id "77759020-3022-11f0-b45b-c128a3bcf064"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [528 448]
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158504097
+:clipping 0}}
+:block/updated-at 1747158508690} 
+{:block/created-at 1747158508690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7775b730-3022-11f0-b45b-c128a3bcf064"
+:fontWeight 400
+:noFill true
+:point [513 623.89]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7775b731-3022-11f0-b45b-c128a3bcf064"}
+:end 
+{:id "end"
+:canBind true
+:point [11 0.17]
+:bindingId "7775b732-3022-11f0-b45b-c128a3bcf064"}}
+:decorations 
+{:end "arrow"}
+:parentId "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:nonce 1747158503992
+:italic false}}
+:block/updated-at 1747158508690})
+:pages (
+{:block/uuid #uuid "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "682385bf-d3bb-4233-9c34-cb30975fd43e"
+:name "race course map"
+:bindings 
+{:6dc8c1a1-3022-11f0-b45b-c128a3bcf064 
+{:id "6dc8c1a1-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "6dc8c1a0-3022-11f0-b45b-c128a3bcf064"
+:toId "68d66df0-3022-11f0-b45b-c128a3bcf064"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:6dc8c1a2-3022-11f0-b45b-c128a3bcf064 
+{:id "6dc8c1a2-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "6dc8c1a0-3022-11f0-b45b-c128a3bcf064"
+:toId "6dc87380-3022-11f0-b45b-c128a3bcf064"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:73239b22-3022-11f0-b45b-c128a3bcf064 
+{:id "73239b22-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "73239b21-3022-11f0-b45b-c128a3bcf064"
+:toId "6dc87380-3022-11f0-b45b-c128a3bcf064"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:73239b23-3022-11f0-b45b-c128a3bcf064 
+{:id "73239b23-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "73239b21-3022-11f0-b45b-c128a3bcf064"
+:toId "73239b20-3022-11f0-b45b-c128a3bcf064"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7775b731-3022-11f0-b45b-c128a3bcf064 
+{:id "7775b731-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "7775b730-3022-11f0-b45b-c128a3bcf064"
+:toId "73239b20-3022-11f0-b45b-c128a3bcf064"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7775b732-3022-11f0-b45b-c128a3bcf064 
+{:id "7775b732-3022-11f0-b45b-c128a3bcf064"
+:type "line"
+:fromId "7775b730-3022-11f0-b45b-c128a3bcf064"
+:toId "77759020-3022-11f0-b45b-c128a3bcf064"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets [
+{:id "68d50e60-3022-11f0-b45b-c128a3bcf064"
+:type "image"
+:src "../assets/Sail_Racing_Course_1_1747158479412_0.jpg"
+:size [960 720]} 
+{:id "6dc6ece0-3022-11f0-b45b-c128a3bcf064"
+:type "image"
+:src "../assets/Sail_Racing_Course_2_1747158487683_0.jpg"
+:size [960 720]} 
+{:id "7322b0c0-3022-11f0-b45b-c128a3bcf064"
+:type "image"
+:src "../assets/Sail_Racing_Course_3_1747158496669_0.jpg"
+:size [960 720]} 
+{:id "7774a5c0-3022-11f0-b45b-c128a3bcf064"
+:type "image"
+:src "../assets/Sail_Racing_Course_4_1747158503925_0.jpg"
+:size [960 720]}]
+:shapes-index ("68d66df0-3022-11f0-b45b-c128a3bcf064" "6dc87380-3022-11f0-b45b-c128a3bcf064" "6dc8c1a0-3022-11f0-b45b-c128a3bcf064" "73239b20-3022-11f0-b45b-c128a3bcf064" "73239b21-3022-11f0-b45b-c128a3bcf064" "77759020-3022-11f0-b45b-c128a3bcf064" "7775b730-3022-11f0-b45b-c128a3bcf064")}}
+:block/updated-at 1747158508689
+:block/created-at 1747158463708
+:block/type "whiteboard"
+:block/name "race course map"
+:block/original-name "Race Course Map"})}
