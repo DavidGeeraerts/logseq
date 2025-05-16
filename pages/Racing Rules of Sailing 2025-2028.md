@@ -49,7 +49,12 @@
 	- **18.4 Gybing in the Zone**
 		- When an inside overlapped right-of-way boat must gybe at a mark to sail her proper course, until she gybes she shall sail no farther from the mark than needed to sail that course. Rule 18.4 does not apply at a gate mark.
 - **Rule 19: ROOM TO PASS AN OBSTRUCTION**
--
+- **Rule 20: ROOM TO TACK AT AN OBSTRUCTION**
+- **Rule 26: STARTING RACES**
+	- *Races shall be started by using the following signals. Times shall be taken from the visual signals; the absence of a sound signal shall be disregarded.*
+- ![image.png](../assets/image_1747329128764_0.png){:height 353, :width 780}
+	- **or as stated in the notice of race or sailing instructions*
+	- *The warning signal for each succeeding class shall be made with or after the starting signal of the preceding class.*
 - **Section D - Other Rules**
 	- Negates section A rules
 - **Rule 21: STARTING ERRORS; TAKING PENALTIES; BACKING A SAIL**
